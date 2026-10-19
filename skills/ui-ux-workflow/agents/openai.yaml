@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quy trình UI/UX"
+  short_description: "Nghiên cứu, thiết kế, kiểm thử và bàn giao UI/UX"
+  default_prompt: "Dùng $ui-ux-workflow để xác định phạm vi và thực hiện quy trình UI/UX phù hợp cho sản phẩm của tôi, phân biệt bằng chứng với giả thuyết."

@@ -1,0 +1,613 @@
+{
+  "color": {
+    "text": {
+      "heading": {
+        "25": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.9882352948188782,
+              0.9882352948188782,
+              0.9921568632125854
+            ],
+            "alpha": 1,
+            "hex": "#FCFCFD"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:53",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:7920bff8127783b4beafc94925bf759cb16eb537/-1:-1",
+              "targetVariableName": "Color/neutral/25",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "50": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.9764705896377563,
+              0.9803921580314636,
+              0.9843137264251709
+            ],
+            "alpha": 1,
+            "hex": "#F9FAFB"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:55",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:30817a7184894f3cb45b25657f4bfe0c49c222d0/-1:-1",
+              "targetVariableName": "Color/neutral/50",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.9490196108818054,
+              0.95686274766922,
+              0.9686274528503418
+            ],
+            "alpha": 1,
+            "hex": "#F2F4F7"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:58",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:9d2f7c136b352ea23771b33e9e432e0286633259/-1:-1",
+              "targetVariableName": "Color/neutral/100",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.9176470637321472,
+              0.9254902005195618,
+              0.9411764740943909
+            ],
+            "alpha": 1,
+            "hex": "#EAECF0"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:52",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:4b5087655d74406523d49a2fcbe4e825af5ad502/-1:-1",
+              "targetVariableName": "Color/neutral/200",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.8156862854957581,
+              0.8352941274642944,
+              0.8666666746139526
+            ],
+            "alpha": 1,
+            "hex": "#D0D5DD"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:51",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:db9c9d24d7f86cf7ca1ac90d2f274d9242c156fc/-1:-1",
+              "targetVariableName": "Color/neutral/300",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.5960784554481506,
+              0.6352941393852234,
+              0.7019608020782471
+            ],
+            "alpha": 1,
+            "hex": "#98A2B3"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:57",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:318586053640f86f1edd14e9f5d32f7c60fb3e51/-1:-1",
+              "targetVariableName": "Color/neutral/400",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.4000000059604645,
+              0.43921568989753723,
+              0.5215686559677124
+            ],
+            "alpha": 1,
+            "hex": "#667085"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:50",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:86e9a0fe683abe0a45ad795bc5e17ed7639fb87e/-1:-1",
+              "targetVariableName": "Color/neutral/500",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "600": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.27843138575553894,
+              0.3294117748737335,
+              0.40392157435417175
+            ],
+            "alpha": 1,
+            "hex": "#475467"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:59",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:c04394818054f8ecfe001730c8ac52a69dae5682/-1:-1",
+              "targetVariableName": "Color/neutral/600",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.20392157137393951,
+              0.250980406999588,
+              0.3294117748737335
+            ],
+            "alpha": 1,
+            "hex": "#344054"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:60",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:3cc1a4566d6d066a66f69fdbdfdc8991472989cb/-1:-1",
+              "targetVariableName": "Color/neutral/700",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "800": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.11372549086809158,
+              0.16078431904315948,
+              0.2235294133424759
+            ],
+            "alpha": 1,
+            "hex": "#1D2939"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:54",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:4e327f8b185ff09d35909ee5c1b26c4cde9376dd/-1:-1",
+              "targetVariableName": "Color/neutral/800",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "900": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.062745101749897,
+              0.0941176488995552,
+              0.1568627506494522
+            ],
+            "alpha": 1,
+            "hex": "#101828"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:56",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:5423ad98c56560ed300f666d734a4ed50e032308/-1:-1",
+              "targetVariableName": "Color/neutral/900",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "white": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              1,
+              1,
+              1
+            ],
+            "alpha": 1,
+            "hex": "#FFFFFF"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:61",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:5242f3988d07de9669e97c6a2476d7d6e112caf2/-1:-1",
+              "targetVariableName": "Color/neutral/white",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        }
+      },
+      "body": {
+        "25": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.9882352948188782,
+              0.9882352948188782,
+              0.9921568632125854
+            ],
+            "alpha": 1,
+            "hex": "#FCFCFD"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:10264",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:7920bff8127783b4beafc94925bf759cb16eb537/-1:-1",
+              "targetVariableName": "Color/neutral/25",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "50": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.9764705896377563,
+              0.9803921580314636,
+              0.9843137264251709
+            ],
+            "alpha": 1,
+            "hex": "#F9FAFB"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:10265",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:30817a7184894f3cb45b25657f4bfe0c49c222d0/-1:-1",
+              "targetVariableName": "Color/neutral/50",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "100": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.9490196108818054,
+              0.95686274766922,
+              0.9686274528503418
+            ],
+            "alpha": 1,
+            "hex": "#F2F4F7"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:10266",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:9d2f7c136b352ea23771b33e9e432e0286633259/-1:-1",
+              "targetVariableName": "Color/neutral/100",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "200": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.9176470637321472,
+              0.9254902005195618,
+              0.9411764740943909
+            ],
+            "alpha": 1,
+            "hex": "#EAECF0"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:10267",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:4b5087655d74406523d49a2fcbe4e825af5ad502/-1:-1",
+              "targetVariableName": "Color/neutral/200",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "300": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.8156862854957581,
+              0.8352941274642944,
+              0.8666666746139526
+            ],
+            "alpha": 1,
+            "hex": "#D0D5DD"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:10268",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:db9c9d24d7f86cf7ca1ac90d2f274d9242c156fc/-1:-1",
+              "targetVariableName": "Color/neutral/300",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "400": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.5960784554481506,
+              0.6352941393852234,
+              0.7019608020782471
+            ],
+            "alpha": 1,
+            "hex": "#98A2B3"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:10269",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:318586053640f86f1edd14e9f5d32f7c60fb3e51/-1:-1",
+              "targetVariableName": "Color/neutral/400",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "500": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.4000000059604645,
+              0.43921568989753723,
+              0.5215686559677124
+            ],
+            "alpha": 1,
+            "hex": "#667085"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:10270",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:86e9a0fe683abe0a45ad795bc5e17ed7639fb87e/-1:-1",
+              "targetVariableName": "Color/neutral/500",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "600": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.27843138575553894,
+              0.3294117748737335,
+              0.40392157435417175
+            ],
+            "alpha": 1,
+            "hex": "#475467"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:10271",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:c04394818054f8ecfe001730c8ac52a69dae5682/-1:-1",
+              "targetVariableName": "Color/neutral/600",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "700": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.20392157137393951,
+              0.250980406999588,
+              0.3294117748737335
+            ],
+            "alpha": 1,
+            "hex": "#344054"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:10272",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:3cc1a4566d6d066a66f69fdbdfdc8991472989cb/-1:-1",
+              "targetVariableName": "Color/neutral/700",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "800": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.11372549086809158,
+              0.16078431904315948,
+              0.2235294133424759
+            ],
+            "alpha": 1,
+            "hex": "#1D2939"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:10273",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:4e327f8b185ff09d35909ee5c1b26c4cde9376dd/-1:-1",
+              "targetVariableName": "Color/neutral/800",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "900": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.062745101749897,
+              0.0941176488995552,
+              0.1568627506494522
+            ],
+            "alpha": 1,
+            "hex": "#101828"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:10274",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:5423ad98c56560ed300f666d734a4ed50e032308/-1:-1",
+              "targetVariableName": "Color/neutral/900",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        },
+        "white": {
+          "$type": "color",
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              1,
+              1,
+              1
+            ],
+            "alpha": 1,
+            "hex": "#FFFFFF"
+          },
+          "$extensions": {
+            "com.figma.variableId": "VariableID:90:10263",
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
+            "com.figma.aliasData": {
+              "targetVariableId": "VariableID:5242f3988d07de9669e97c6a2476d7d6e112caf2/-1:-1",
+              "targetVariableName": "Color/neutral/white",
+              "targetVariableSetId": "VariableCollectionId:da5a563044ae4456553d63a00221da981c224f1d/-1:-1",
+              "targetVariableSetName": "Văn Minh Việt — Base"
+            }
+          }
+        }
+      }
+    }
+  },
+  "$extensions": {
+    "com.figma.modeName": "Mode 1"
+  }
+}
