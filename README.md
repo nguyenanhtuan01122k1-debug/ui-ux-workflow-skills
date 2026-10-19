@@ -20,6 +20,8 @@ New-Item -ItemType Directory -Path $skillRoot -Force | Out-Null
 Copy-Item -LiteralPath './skills/ui-ux-workflow' -Destination $skillTarget -Recurse
 ```
 
+Với Google Antigravity: đặt skill tại `~/.gemini/config/skills/ui-ux-workflow` và nối Figma MCP theo [integrations/antigravity](integrations/antigravity/README.md).
+
 ## Gọi skill
 
 ```text
