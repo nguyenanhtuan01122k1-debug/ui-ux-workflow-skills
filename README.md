@@ -8,7 +8,7 @@ Skill chính: **`ui-ux-workflow`**. Không yêu cầu Tavily hoặc Figma để 
 
 ## Cài đặt
 
-Copy thư mục `skills/ui-ux-workflow` vào thư mục skills của môi trường đang dùng. Với Codex, đặt tại `$CODEX_HOME/skills/ui-ux-workflow`; nếu không cấu hình `CODEX_HOME`, dùng `~/.codex/skills/ui-ux-workflow`. Mở phiên mới nếu skill chưa xuất hiện. Repo này chưa tự cài vào tài khoản và chưa được đẩy lên GitHub.
+Copy thư mục `skills/ui-ux-workflow` vào thư mục skills của môi trường đang dùng. Với Codex, đặt tại `$CODEX_HOME/skills/ui-ux-workflow`; nếu không cấu hình `CODEX_HOME`, dùng `~/.codex/skills/ui-ux-workflow`. Mở phiên mới nếu skill chưa xuất hiện. Repo không tự cài skill vào tài khoản.
 
 Ví dụ PowerShell, chạy ở thư mục repo, đích cài phải chưa tồn tại:
 
