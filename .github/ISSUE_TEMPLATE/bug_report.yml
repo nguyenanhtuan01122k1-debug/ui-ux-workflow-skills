@@ -1,0 +1,119 @@
+name: Báo cáo lỗi
+description: Báo lỗi khi cài đặt, gọi skill ui-ux-workflow, chạy script hoặc kết nối Figma/Tavily.
+title: "[Lỗi] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cảm ơn bạn đã báo lỗi. Điền càng cụ thể càng dễ tái hiện.
+        **Không dán** API key, token Figma/Tavily, mật khẩu hoặc dữ liệu người dùng thật.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Mô tả lỗi
+      description: Một đến hai câu: chuyện gì xảy ra sai?
+      placeholder: "Ví dụ: new_project.py báo lỗi mã hoá khi tên dự án có dấu tiếng Việt."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Phần bị ảnh hưởng
+      multiple: true
+      options:
+        - Cài đặt skill
+        - SKILL.md / cách skill được gọi
+        - Tài liệu tham khảo (references/)
+        - Mẫu hồ sơ dự án (assets/project/)
+        - Design token (assets/tokens/)
+        - Script new_project.py
+        - Script check_tokens.py
+        - Tích hợp Figma MCP
+        - Nghiên cứu qua Tavily
+        - Google Antigravity (integrations/antigravity)
+        - Style Văn Minh Việt
+        - README / tài liệu repo
+        - Khác
+    validations:
+      required: true
+
+  - type: dropdown
+    id: agent
+    attributes:
+      label: Môi trường chạy skill
+      options:
+        - Codex
+        - Claude Code
+        - Google Antigravity
+        - Khác (ghi ở phần Môi trường)
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Các bước tái hiện
+      description: Liệt kê từng bước, gồm cả câu lệnh hoặc lời gọi skill đã dùng.
+      placeholder: |
+        1. Copy skills/ui-ux-workflow vào ~/.codex/skills/
+        2. Gọi: "Dùng $ui-ux-workflow thiết kế lại trang chủ..."
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Kết quả mong đợi
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Kết quả thực tế
+      description: Điều đã xảy ra. Nếu skill bỏ bước, bịa dữ liệu hoặc trộn giả thuyết với bằng chứng, ghi rõ ở đây.
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log / thông báo lỗi
+      description: Dán output terminal hoặc đoạn trả lời liên quan. Tự động định dạng thành code.
+      render: shell
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Môi trường
+      description: Hệ điều hành, phiên bản Python, model, commit của repo (`git rev-parse --short HEAD`), Figma/Tavily có kết nối không.
+      placeholder: |
+        - OS: Windows 11
+        - Python: 3.12
+        - Model/agent: ...
+        - Commit: 0ba5f82
+        - Figma MCP: có / không
+        - Tavily: có / không
+    validations:
+      required: true
+
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Ảnh chụp / file đính kèm
+      description: Kéo thả ảnh màn hình, link Figma (nếu được phép chia sẻ) hoặc file hồ sơ dự án liên quan.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Kiểm tra trước khi gửi
+      options:
+        - label: Tôi đã tìm trong các issue hiện có và chưa thấy lỗi này.
+          required: true
+        - label: Tôi đã thử với bản mới nhất trên nhánh main.
+        - label: Tôi đã xoá key, token và dữ liệu nhạy cảm khỏi nội dung trên.
+          required: true
